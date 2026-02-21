@@ -1,0 +1,21 @@
+# Flutter on Vercel excludes
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+test/
+coverage/
+android/
+ios/
+linux/
+macos/
+windows/
+.metadata
+analysis_options.yaml
+pubspec.lock
