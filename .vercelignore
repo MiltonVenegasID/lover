@@ -17,6 +17,3 @@ macos/
 windows/
 .metadata
 analysis_options.yaml
-pubspec.lock
-lib/
-# Note: build/web is NOT ignored as it's needed for deployment
